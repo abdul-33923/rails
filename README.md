@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add docs guide terminal images (#8819)
