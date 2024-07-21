@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
